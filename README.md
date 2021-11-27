@@ -2,7 +2,7 @@
 
 *A command-line application to manage apps and app archives on iOS devices.*
 
-![](https://github.com/libimobiledevice/ideviceinstaller/actions/workflows/build.yml/badge.svg)
+![](https://github.com/davidkra230/ideviceinstaller/actions/workflows/build.yml/badge.svg)
 
 ## Features
 
